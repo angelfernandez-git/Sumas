@@ -1,0 +1,4 @@
+$psversiontable
+get-executionpolicy
+get-computerinfo
+systeminfo
